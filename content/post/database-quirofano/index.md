@@ -29,4 +29,4 @@ In the case we are working on, the idea is to create a relational database for a
 ![Conceptual Diagram](diagrama-conceptual.png) ![Relational Diagram](diagrama-relacional.png)
 
 ## View project in pdf
-[Database of the equipment of an operating room project](Proyecto-base-de-datos-QUIROFANO.pdf)
+[Database of the equipment of an operating room project](/Proyecto-base-de-datos-QUIROFANO.pdf)

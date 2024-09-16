@@ -26,5 +26,5 @@ Las principales tareas realizadas incluyeron:
 - **Implementación de un balanceador de carga**: Despliegue de un balanceador de carga en AWS, que distribuye de manera equitativa las peticiones entrantes entre los dos servidores Apache, optimizando la carga y asegurando una mayor disponibilidad.
 
 
-[**Visualizar memoria en pdf**](aws-ec2.pdf)
+[**Visualizar memoria en pdf**](/aws-ec2.pdf)
 

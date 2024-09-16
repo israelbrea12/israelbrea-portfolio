@@ -33,4 +33,4 @@ The project was born with the purpose of automating the way users receive film r
 4. **Generation of Recommendations**: Based on a recommendation algorithm, a score is assigned to different films according to the user's preferences, providing a final list of the 20 most suitable films.
 
 ## View presentation of the project in pdf
-[Tweet analysis and film recommendation project](presentacion-resultados.pdf)
+[Tweet analysis and film recommendation project](/presentacion-resultados.pdf)

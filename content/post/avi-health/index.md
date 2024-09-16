@@ -28,4 +28,4 @@ AVI Health is an application that allows patients to make dermatological consult
 ## Why was it created?
 The main objective of this application is to improve patient care and decision making during the skin cancer treatment process. This type of cancer affects thousands of people, and waiting times for consultations and diagnoses can negatively affect treatment. With this tool, the aim is to streamline communication between doctors and patients by providing a platform to manage consultations and teleconsultations instantly, which is key in the e-Health era.
 
-{{< video "video_avi_health.webm" >}}
+{{< video "/video_avi_health.webm" >}}

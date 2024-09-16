@@ -1,3 +1,42 @@
 /*
     You can add your own custom styles here.
 */
+
+/* Contenedor de la galería de imágenes */
+.image-gallery {
+    display: flex; /* Usa flexbox para organizar las imágenes en línea */
+    overflow-x: auto; /* Permite el desplazamiento horizontal */
+    white-space: nowrap; /* Mantiene las imágenes en una sola línea */
+    padding: 10px; /* Espacio alrededor del contenedor */
+    box-sizing: border-box; /* Incluye padding en el tamaño total del contenedor */
+}
+
+/* Estilo para los enlaces (contenedores de imágenes) */
+.image-gallery a {
+    display: inline-block; /* Hace que los enlaces se alineen en línea */
+    margin-right: 10px; /* Espacio entre las imágenes */
+    min-width: 300px; /* Establece un ancho mínimo para los enlaces */
+}
+
+/* Estilo para las imágenes */
+.image-gallery img {
+    height: auto; /* Mantiene la proporción de las imágenes */
+    max-width: 100%; /* Ajusta el tamaño máximo de las imágenes al ancho del contenedor */
+    max-height: 400px; /* Ajusta la altura máxima de las imágenes si es necesario */
+    vertical-align: middle; /* Alinea verticalmente las imágenes */
+}
+
+/* Ajustes para dispositivos más pequeños */
+@media (max-width: 600px) {
+    .image-gallery a {
+        min-width: 150px; /* Reduce el ancho mínimo para pantallas pequeñas */
+    }
+
+    .image-gallery img {
+        max-height: 200px; /* Reduce la altura máxima en pantallas pequeñas */
+    }
+}
+
+
+
+

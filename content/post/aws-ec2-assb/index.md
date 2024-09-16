@@ -26,5 +26,5 @@ The main tasks performed included:
 - Deployment of a load balancer**: Deployment of a load balancer on AWS, which distributes incoming requests evenly between the two Apache servers, optimising the load and ensuring higher availability.
 
 
-[**View memory in pdf**](aws-ec2.pdf)
+[**View memory in pdf**](/aws-ec2.pdf)
 

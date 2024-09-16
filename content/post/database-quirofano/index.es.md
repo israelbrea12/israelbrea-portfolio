@@ -29,4 +29,4 @@ En el caso que estamos trabajando, se plantea crear una base de datos relacional
 ![Diagrama Conceptual](diagrama-conceptual.png) ![Diagrama Relacional](diagrama-relacional.png)
 
 ## Visualizar proyecto en pdf
-[Proyecto base de datos del equipamiento de un quirófano](Proyecto-base-de-datos-QUIROFANO.pdf)
+[Proyecto base de datos del equipamiento de un quirófano](/Proyecto-base-de-datos-QUIROFANO.pdf)

@@ -34,4 +34,4 @@ El proyecto nace con el propósito de automatizar la forma en que los usuarios r
 4. **Generación de Recomendaciones**: Basado en un algoritmo de recomendación, se asigna una puntuación a diferentes películas según las preferencias del usuario, proporcionando una lista final de las 20 películas más adecuadas.
 
 ## Visualizar presentación del proyecto en pdf
-[Proyecto análisis de Tweets y recomendacón de películas](presentacion-resultados.pdf)
+[Proyecto análisis de Tweets y recomendacón de películas](/presentacion-resultados.pdf)
