@@ -8,6 +8,14 @@
 #newtab = true
 
 [[social]]
+identifier = "curriculum"
+name = "Curriculum"
+url = "/cv_israelbreapinero.pdf"
+
+[social.params]
+icon = "file-cv"
+
+[[social]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/israelbrea12"

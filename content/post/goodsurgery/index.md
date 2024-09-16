@@ -11,7 +11,7 @@ tags:
     - Kotlin
     - Android
     - Android Studio
-    - Git
+    - Git, Github
     - MVVM
     - Figma
     - e-Health
@@ -27,7 +27,4 @@ GoodSurgery is a tool designed to provide clear and detailed information about c
 ## Why was it created?
 The idea for this application arose from the need to improve communication between patients and the medical team, especially in a context where the volume of information received can be overwhelming. GoodSurgery aims to reduce the anxiety and uncertainty that often accompanies surgical procedures by providing a reliable source of information that the patient can consult at any time. It also facilitates patient adherence to medical recommendations, which contributes to better postoperative recovery and greater satisfaction with the process.
 
-<video width="600" controls>
-  <source src="video-goodsurgery.mp4" type="video/mp4">
-  Your browser does not support the video format.
-</video>
+{{< video "video-goodsurgery.mp4" >}}

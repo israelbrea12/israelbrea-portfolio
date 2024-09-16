@@ -12,11 +12,11 @@ tags:
     - Android
     - Android Studio
     - Firebase
-    - Git
+    - Git, Github
     - MVVM
     - Figma
     - e-Health
-weight: 3       # You can add weight to some posts to override the default sorting (date descending)
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 ## Descripción del proyecto:
@@ -28,7 +28,4 @@ AVI Health es una aplicación permite a los pacientes realizar consultas dermato
 ## ¿Por qué se creó?
 El objetivo principal de esta aplicación es mejorar la atención al paciente y la toma de decisiones durante el proceso de tratamiento del cáncer de piel. Este tipo de cáncer afecta a miles de personas, y los tiempos de espera para consultas y diagnósticos pueden afectar negativamente el tratamiento. Con esta herramienta, se busca agilizar la comunicación entre médicos y pacientes, proporcionando una plataforma que permita gestionar consultas y teleconsultas de forma instantánea, lo que es clave en la era de la e-Health.
 
-<video width="600" controls>
-  <source src="video_avi_health.webm" type="video/webm">
-  Tu navegador no soporta el formato de video.
-</video>
+{{< video "video_avi_health.webm" >}}

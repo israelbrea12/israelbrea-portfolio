@@ -8,7 +8,7 @@ categories:
     - Database
 tags:
     - SQL
-weight: 4
+weight: 1
 ---
 
 ## Description of the problem

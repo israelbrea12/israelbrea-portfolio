@@ -1,6 +1,6 @@
 ---
 title: Tweets Analysis and Film Recommendations
-description: Relational database to manage all the information related to the equipment, installations and electro-medical equipment in an operating room.
+description: Film recommendation system based on the extraction and analysis of tweets to identify film preferences.
 slug: tweet-film
 date: 2024-05-25 00:00:00+0000
 image: tweet-analysis-film-recommendations.png
@@ -15,7 +15,7 @@ tags:
     - Seaborn
     - Matplotlib
     - Plotly
-weight: 2
+weight: 1
 ---
 ## Project description:
 This project involves the development of a personalised movie recommendation system that uses tweets to identify users' movie preferences. The system is able to analyse the tweets of specific users, understand if the mentioned movie is to their liking and extract relevant information to generate recommendations based on individual tastes.
