@@ -21,9 +21,9 @@ This project was developed for a Systems Architectures and Distributed Systems (
 The main tasks performed included:
 
 - **Controlling and creating cost alerts**: Setting up alerts in AWS to ensure that all operations conformed to the free plan, avoiding unwanted additional charges.
-- Deployment of EC2 instances**: Raise two instances of **EC2** and connect to them via **SSH**. On each of the instances, install the **Apache** web server.
-- Configuring web servers**: Configuring the Apache services on both instances to serve a static web page I created myself.
-- Deployment of a load balancer**: Deployment of a load balancer on AWS, which distributes incoming requests evenly between the two Apache servers, optimising the load and ensuring higher availability.
+- **Deployment of EC2 instances**: Raise two instances of **EC2** and connect to them via **SSH**. On each of the instances, install the **Apache** web server.
+- **Configuring web servers**: Configuring the Apache services on both instances to serve a static web page I created myself.
+- **Deployment of a load balancer**: Deployment of a load balancer on AWS, which distributes incoming requests evenly between the two Apache servers, optimising the load and ensuring higher availability.
 
 
 [**View memory in pdf**](/aws-ec2.pdf)
