@@ -4,11 +4,9 @@ languageName = "English"
 languagedirection = "ltr"
 title = "Israel Brea Piñero"
 weight = 1
-baseURL = 'https://ibrepidev-portfolio.duckdns.org/en/'
 
 [es]
 languageName = "Español"
 languagedirection = "ltr"
 title = "Israel Brea Piñero"
 weight = 2
-baseURL = 'https://ibrepidev-portfolio.duckdns.org/es/'
