@@ -1,6 +1,6 @@
 ---
 title: Operating Room Equipment Management Database
-description: Relational database to manage all the information related to the equipment, installations and electro-medical equipment in an operating room.
+description: Academic project | Relational database to manage all the information related to the equipment, installations and electro-medical equipment in an operating room.
 slug: bd-operating-room
 date: 2022-05-25 00:00:00+0000
 image: image-quirofano.png
@@ -8,8 +8,12 @@ categories:
     - Database
 tags:
     - SQL
+    - MariaDB
+    - HeidiSQL
 weight: 1
 ---
+
+This project was developed during the Databases (DB) course during my second year of college. The main objective was to design, model and develop a SQL database to manage and store information on the electromedical equipment and facilities of an operating room. The database would not only allow managing the equipment and its maintenance, but also ensure compliance with health regulations, control the value of the equipment, supervise periodic reviews, etc.
 
 ## Description of the problem
 The requirements of compliance with certain standards of quality and asepsis in an operating room entail an adequate management and control of all its elements, their knowledge, maintenance and replacement or repair. Different profiles are involved in this function and must be able to access the information in an orderly manner. In order to respond to this situation, we propose the creation of a database to manage all the information related to the equipment, installations and electro-medical equipment in an operating room. The

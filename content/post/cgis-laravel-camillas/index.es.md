@@ -1,6 +1,6 @@
 ---
 title: Aplicación web para la gestión de camillas hospitalarias
-description: Desarrollo de plataforma web para la gestión de camillas hospitalarias
+description: Proyecto académico | Desarrollo de plataforma web para la gestión de camillas hospitalarias
 slug: cgis-laravel-camillas
 date: 2023-01-01 00:00:00+0000
 image: cgis-camillas.png

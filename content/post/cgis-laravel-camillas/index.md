@@ -1,6 +1,6 @@
 ---
 title: Web application for the management of hospital stretchers
-description: Development of web platform for the management of hospital stretchers
+description: Academic Project | Development of web platform for the management of hospital stretchers
 slug: cgis-laravel-stretchers
 date: 2023-01-01 00:00:00+0000
 image: cgis-camillas.png

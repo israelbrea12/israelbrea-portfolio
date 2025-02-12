@@ -5,7 +5,7 @@ slug: tweet-film
 date: 2024-05-25 00:00:00+0000
 image: tweet-analysis-film-recommendations.png
 categories:
-    - Data Science
+    - Data Analysis
     - Machine Learning
     - Natural Language Processing (NLP)
 tags:
@@ -15,6 +15,7 @@ tags:
     - Seaborn
     - Matplotlib
     - Plotly
+    - Sklearn
 weight: 1
 ---
 ## Project description:

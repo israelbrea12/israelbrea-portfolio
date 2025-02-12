@@ -1,6 +1,6 @@
 ---
 title: Base de Datos para la Gestión del Equipamiento de Quirófanos
-description: Base de datos relacional para gestionar toda la información relativa a los equipos, instalaciones y equipamiento electro-médico que tiene un quirófano.
+description: Proyecto académico | Base de datos relacional para gestionar toda la información relativa a los equipos, instalaciones y equipamiento electro-médico que tiene un quirófano.
 slug: bd-quirofano
 date: 2022-05-25 00:00:00+0000
 image: image-quirofano.png
@@ -8,8 +8,12 @@ categories:
     - Base de Datos
 tags:
     - SQL
+    - MariaDB
+    - HeidiSQL
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
+
+Este proyecto fue desarrollado durante la asignatura de Bases de Datos (BD) durante mi segundo año de carrera. El objetivo principal era diseñar, modelar y desarrollar una base de datos SQL para gestionar y almacenar la información de las instalaciones y equipamientos electromédicos de un quirófano. La base de datos permitiría no solo gestionar los equipos y su mantenimiento, sino también asegurar el cumplimiento de regulaciones sanitarias, controlar el valor del equipamiento, supervisar las revisiones periódicas…
 
 ## Descripción del problema
 Las exigencias de cumplimiento de unos determinados estándares de calidad y asepsia en un quirófano llevan aparejado una adecuada gestión y control de todos sus elementos, de su conocimiento, mantenimiento y sustitución o reparación. Intervienen diferentes perfiles en esta función y deben poder acceder a la información de forma ordenada. Se plantea, para dar respuesta a esta situación, la creación de una base de datos para gestionar toda la información relativa a los equipos, instalaciones y equipamiento electro-médico que tiene un quirófano. El
