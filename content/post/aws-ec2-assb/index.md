@@ -5,7 +5,7 @@ slug: aws-ec2
 date: 2023-11-15 00:00:00+0000
 image: aws.png
 categories:
-    - Parallel programming
+    - Cloud computing
 tags:
     - Bash
     - WSL
