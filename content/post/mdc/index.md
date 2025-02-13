@@ -1,6 +1,6 @@
 ---
 title: Tweets Analysis and Film Recommendations
-description: Film recommendation system based on the extraction and analysis of tweets to identify film preferences.
+description: Academic project | Film recommendation system based on the extraction and analysis of tweets to identify film preferences.
 slug: tweet-film
 date: 2024-05-25 00:00:00+0000
 image: tweet-analysis-film-recommendations.png

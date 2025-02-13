@@ -1,6 +1,6 @@
 ---
 title: Creación y despliegue de portfolio web con Hugo.
-description: Creación y despliegue de portfolio web para presentar y redactar los proyectos realizados durante mi carrera académica y profesional.
+description: Proyecto personal | Creación y despliegue de portfolio web para presentar y redactar los proyectos realizados durante mi carrera académica y profesional.
 slug: hugo-web
 date: 2024-09-01 00:00:00+0000
 image: hugo-portfolio.png

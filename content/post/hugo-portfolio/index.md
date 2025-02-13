@@ -1,6 +1,6 @@
 ---
 title: Creation and deployment of web portfolio with Hugo.
-description: Creation and deployment of web portfolio to present and write about the projects done during my academic and professional career.
+description: Personal project | Creation and deployment of web portfolio to present and write about the projects done during my academic and professional career.
 slug: hugo-web
 date: 2024-09-01 00:00:00+0000
 image: hugo-portfolio.png

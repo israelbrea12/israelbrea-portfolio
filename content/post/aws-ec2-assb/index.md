@@ -1,6 +1,6 @@
 ---
 title: Web Service Deployment with EC2 AWS
-description: Creating a load balancer that distributes requests between two EC2 instances, each with its own Apache server and web page.
+description: Academic project | Creating a load balancer that distributes requests between two EC2 instances, each with its own Apache server and web page.
 slug: aws-ec2
 date: 2023-11-15 00:00:00+0000
 image: aws.png

@@ -1,6 +1,6 @@
 ---
 title: Análisis de Tweets y Recomendación de Películas
-description: Sistema de recomendación de películas basado en la extracción y análisis de tweets para identificar preferencias cinematográficas.
+description: Proyecto académico | Sistema de recomendación de películas basado en la extracción y análisis de tweets para identificar preferencias cinematográficas.
 slug: tweets-peliculas
 date: 2024-05-25 00:00:00+0000
 image: analisis-tweets-recomendacion-peliculas.png

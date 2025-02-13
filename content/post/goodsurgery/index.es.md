@@ -1,6 +1,6 @@
 ---
 title: GoodSurgery
-description: Aplicación móvil Android para la ayuda, preparación y mejora de atención del paciente quirúrgico
+description: Proyecto académico | Aplicación móvil Android para la ayuda, preparación y mejora de atención del paciente quirúrgico
 slug: goodsurgery
 date: 2024-06-06 00:00:00+0000
 image: image-goodsurgery.png
@@ -18,13 +18,30 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-## Descripción del proyecto:
-El proyecto GoodSurgery consiste en el desarrollo de una aplicación móvil en Android, creada para asistir a pacientes que se someten a cirugía colorrectal. Esta aplicación nace con el objetivo de mejorar la experiencia del paciente durante todo el proceso perioperatorio, desde la fase de preparación hasta la recuperación. Creada por Israel Brea Piñero en colaboración con el hospital Virgen del Rocío de Sevilla.
+Este proyecto fue desarrollado durante mi Trabajo de Fin de Grado (TFG) en mi cuarto año de carrera. Su objetivo principal era crear una aplicación móvil para Android que mejorara la experiencia perioperatoria de los pacientes, proporcionando información accesible y detallada sobre los procedimientos quirúrgicos. La finalidad era reducir la ansiedad preoperatoria, mejorar la comunicación entre el equipo médico y el paciente, y aumentar la satisfacción general con el proceso quirúrgico. Para probar la aplicación y obtener resultados reales se realizó un estudio prospectivo piloto para evaluar su impacto. Este trabajo se llevó a cabo en colaboración con el Hospital Universitario Virgen del Rocío.
 
 ## ¿Qué es GoodSurgery?
-GoodSurgery es una herramienta diseñada para proporcionar información clara y detallada sobre los procedimientos quirúrgicos colorrectales. Ofrece a los pacientes una guía completa, accesible en cualquier momento, para ayudarlos a entender el proceso quirúrgico y los cuidados necesarios tanto antes como después de la cirugía. La aplicación incluye secciones dedicadas a la anestesia, preparación preoperatoria, instrucciones para el día del ingreso, y cuidados postoperatorios, adaptados según el tipo de intervención.
+GoodSurgery es una aplicación diseñada para ofrecer a los pacientes una guía clara y completa sobre los procedimientos quirúrgicos colorrectales. La herramienta está estructurada en secciones que abordan el preoperatorio, el postoperatorio y la información general del proceso quirúrgico, adaptándose al tipo de intervención específica de cada paciente. Su diseño intuitivo permite acceder fácilmente a contenidos útiles en cualquier momento, ayudando a los pacientes a comprender y prepararse mejor para su cirugía.
 
 ## ¿Por qué se creó?
-La idea de esta aplicación surge de la necesidad de mejorar la comunicación entre los pacientes y el equipo médico, sobre todo en un contexto donde el volumen de información recibida puede ser abrumador. GoodSurgery busca reducir la ansiedad y la incertidumbre que muchas veces acompañan a los procedimientos quirúrgicos, proporcionando una fuente confiable de información que el paciente puede consultar en cualquier momento. Además, facilita la adherencia del paciente a las recomendaciones médicas, lo que contribuye a una mejor recuperación postoperatoria y a una mayor satisfacción con el proceso.
+GoodSurgery nace con el propósito de mejorar la comunicación entre pacientes y profesionales sanitarios en un momento crucial del proceso quirúrgico. En muchas ocasiones, la cantidad de información médica puede ser abrumadora, generando dudas e incertidumbre en los pacientes. Esta aplicación pretende aliviar esas preocupaciones, actuando como un recurso confiable y accesible que refuerza las explicaciones del equipo médico. Además, fomenta la adherencia del paciente a las indicaciones médicas, promoviendo una recuperación más rápida y efectiva, y contribuyendo a una experiencia quirúrgica más satisfactoria.
 
+## Estudio Piloto
+Se llevó a cabo un **estudio prospectivo piloto para evaluar la efectividad de GoodSurgery**. Este incluyó dos grupos de pacientes diagnosticados con cáncer colorrectal: un grupo de estudio que utilizó la aplicación y un grupo de control que no la utilizó. El cuestionario aplicado a los participantes evaluó aspectos como la claridad de la información, la ansiedad preoperatoria, la facilidad de uso de la aplicación y la satisfacción general.
+
+**Proceso del estudio**
+- **Población de estudio**: Se seleccionaron pacientes con acceso a dispositivos Android que estaban programados para cirugía colorrectal.
+- **Metodología**: Se aplicó un cuestionario predefinido a ambos grupos para comparar los resultados.
+- **Variables analizadas**: Claridad de la información, nivel de ansiedad, facilidad de uso, disponibilidad de información y satisfacción general.
+
+## Resultados
+Los resultados del estudio piloto revelaron los siguientes puntos clave:
+- **Claridad de la información**: Los pacientes que utilizaron GoodSurgery percibieron la información como más clara y comprensible.
+- **Facilidad de uso**: La aplicación fue calificada como intuitiva y fácil de usar.
+- **Ansiedad preoperatoria**: Aunque no se observaron diferencias estadísticamente significativas en la reducción de la ansiedad entre ambos grupos, los usuarios de la aplicación destacaron sentirse más preparados para el procedimiento.
+- **Satisfacción general**: La mayoría de los pacientes calificaron la experiencia con la aplicación como positiva, destacando su utilidad para resolver dudas y ofrecer información en el momento oportuno.
+
+Documentación del proyecto: [Visualizar documentación en pdf](/MemoriaTFG-IsraelBreaPiñero.pdf)
+
+## Video GoodSurgery
 {{< video "/video-goodsurgery.mp4" >}}
