@@ -33,8 +33,8 @@ Además la aplicación incluye otras funcionalidades clave como el acceso a la u
 El objetivo principal de esta aplicación es mejorar la atención al paciente y la toma de decisiones durante el proceso de tratamiento del cáncer de piel. Este tipo de cáncer afecta a miles de personas, y los tiempos de espera para consultas y diagnósticos pueden afectar negativamente el tratamiento. Con esta herramienta, se busca agilizar la comunicación entre médicos y pacientes, proporcionando una plataforma que permita gestionar consultas y teleconsultas de forma instantánea, lo que es clave en la era de la e-Health.
 
 
-Documentación del proyecto: [Visualizar documentación en pdf](/DocumentacionAVIHealth.pdf)
+Documentación del proyecto: [Visualizar documentación en pdf](https://drive.google.com/file/d/1n8zqS8DPVCQBiIJugbRNuOr62nXAK_mt/view?usp=sharing)
 
 ## Video AVI Health
-{{< video "/video_avi_health.webm" >}}
+{{< youtube "AJDppUNHN4E" >}}
 

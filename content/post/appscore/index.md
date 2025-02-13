@@ -1,6 +1,6 @@
 ---
 title: SCORECARD TPNi CG
-description: Academic project | Android mobile application for assisting, preparing and improving surgical patient care
+description: Professional project - FOINCO | Mobile application for the prevention of infections in surgical wounds
 slug: scorecard
 date: 2024-10-06 00:00:00+0000
 image: appscore.png

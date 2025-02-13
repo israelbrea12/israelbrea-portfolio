@@ -41,7 +41,7 @@ Los resultados del estudio piloto revelaron los siguientes puntos clave:
 - **Ansiedad preoperatoria**: Aunque no se observaron diferencias estadísticamente significativas en la reducción de la ansiedad entre ambos grupos, los usuarios de la aplicación destacaron sentirse más preparados para el procedimiento.
 - **Satisfacción general**: La mayoría de los pacientes calificaron la experiencia con la aplicación como positiva, destacando su utilidad para resolver dudas y ofrecer información en el momento oportuno.
 
-Documentación del proyecto: [Visualizar documentación en pdf](/MemoriaTFG-IsraelBreaPiñero.pdf)
+Documentación del proyecto: [Visualizar documentación en pdf](https://drive.google.com/file/d/1KnBXEPN2KAIm_uXqRw_Mo02ZxGm3OaqJ/view?usp=sharing)
 
 ## Video GoodSurgery
-{{< video "/video-goodsurgery.mp4" >}}
+{{< youtube "9BzRi1fJnh4" >}}

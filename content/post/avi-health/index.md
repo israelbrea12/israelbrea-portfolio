@@ -32,7 +32,7 @@ In addition, the application includes other key functionalities such as access t
 ## Why was it created?
 The main objective of this application is to improve patient care and decision-making during the skin cancer treatment process. This type of cancer affects thousands of people, and waiting times for consultations and diagnoses can negatively affect treatment. This tool aims to streamline communication between doctors and patients, providing a platform that allows for instant consultations and teleconsultations, which is key in the era of e-Health.
 
-Project documentation: [View documentation in pdf](/DocumentacionAVIHealth.pdf)
+Project documentation: [View documentation in pdf](https://drive.google.com/file/d/1n8zqS8DPVCQBiIJugbRNuOr62nXAK_mt/view?usp=sharing)
 
 ## AVI Health Video
-{{< video "/video_avi_health.webm" >}}
+{{< youtube "AJDppUNHN4E" >}}

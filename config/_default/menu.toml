@@ -31,3 +31,11 @@ url = "https://www.linkedin.com/in/israel-brea-pi%C3%B1ero-79747b282/"
 
 [social.params]
 icon = "brand-linkedin"
+
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:israelbrea.02@gmail.com"
+
+[social.params]
+icon = "mail"

@@ -18,6 +18,7 @@ tags:
     - Sklearn
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
+Este proyecto fue desarrollado durante la asignatura de Minería de Datos Clínicos (MDC) durante mi cuarto año de carrera.
 
 ## Descripción del proyecto:
 Este proyecto consiste en el desarrollo de un sistema de recomendación de películas personalizado que utiliza tweets para identificar las preferencias cinematográficas de los usuarios. El sistema es capaz de analizar los tweets de usuarios específicos, comprender si la película mencionada es de su agrado y extraer información relevante para generar recomendaciones basadas en los gustos individuales.
@@ -35,4 +36,4 @@ El proyecto nace con el propósito de automatizar la forma en que los usuarios r
 4. **Generación de Recomendaciones**: Basado en un algoritmo de recomendación, se asigna una puntuación a diferentes películas según las preferencias del usuario, proporcionando una lista final de las 20 películas más adecuadas.
 
 ## Visualizar presentación del proyecto en pdf
-[Proyecto análisis de Tweets y recomendación de películas](/presentacion-resultados.pdf)
+[Proyecto análisis de Tweets y recomendación de películas](https://drive.google.com/file/d/1GETBFcsFC989IEUlwEn49sH4ZZW2ghdP/view?usp=sharing)
